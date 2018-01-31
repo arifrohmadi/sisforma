@@ -1,8 +1,9 @@
 "# sisforma" 
 sistem informasi alumni
-dibangun menggunakan framework laravel 5.5
+dibangun menggunakan framework laravel 5.5.
+panduan instalasi framework laravel dan requirement yang diperlukan bisa dilihat di situs resmi laravel -> https://laravel.com/docs/5.5
 
-Tampilan sistem
+**Tampilan sistem**
 
 * halaman utama
 ![halaman utama](https://github.com/arifrohmadi/sisforma/blob/master/1.halaman%20utama.jpg)
